@@ -48,3 +48,6 @@ Try asking the agent:
 - *"What can I cook with salmon?"* (Fetches recipes and YouTube links)
 - *"I walked 10000 steps today!"* (Calculates calories burned)
 - *"我身高 165 公分，體重 55 公斤，幫我算 BMI"* (Calculates BMI)
+<img width="2176" height="1370" alt="health agent calorie" src="https://github.com/user-attachments/assets/8ed661a5-0038-46a2-a563-68f3c3835bcd" />
+<img width="2176" height="1368" alt="health agent adk web test 1 - BMI" src="https://github.com/user-attachments/assets/da0f0f24-0597-4353-8fcb-2b562f80bd59" />
+<img width="2176" height="1374" alt="health agent - recipe" src="https://github.com/user-attachments/assets/b72a6dc5-d138-44d5-8401-4b74b2f5341d" />
